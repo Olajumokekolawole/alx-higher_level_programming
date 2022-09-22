@@ -1,4 +1,3 @@
-785 Bytes
 #!/usr/bin/python3
 from sys import exit, argv
 from calculator_1 import add, sub, div, mul
